@@ -1,3 +1,2 @@
-1. You need to have python3 installed on your machine to run the program.
-2. To compare the result with NLTK, you need to have downloaded the whole NLTK package.  
-
+# Sentence Tokenizer
+This is a regex based sentence tokenizer which splits a text document into list of sentences. I didn't use NLTK or any other third party provided sentence tokenizer package. 
